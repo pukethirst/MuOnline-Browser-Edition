@@ -1,7 +1,7 @@
 I recently found these files, but they are in portuguese. I can not find the enlish ones that were available years ago, all the download links are dead. 
 
 Website Demo: http://www.abyssmuonline.com/browser/
-MuOnline Browser Edition Discord: https://discord.gg/qjwJA9HUmx
+MuOnline Browser Edition Discord: https://discord.gg/qjwJA9HUmx 
 
 In my spare time I will be working on these files to translate and add to them. If you would like to contribute and make the project go faster please feel free to do so.
 
