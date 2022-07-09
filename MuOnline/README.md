@@ -23,3 +23,11 @@ I want everything set up as the game would be originally in version .99 and disa
 
 
 Database - MySQL
+1) Create a MySQL database for the game
+2) Edit database.php with your database connection information
+3) Restore the database using xmu.com.br.sql in SQL FILES
+4) Upload all files (Except the SQL FILES folder (It's just not needed on the webserver.) to your webserver.
+
+Here is some resources I found with information on the source code.
+https://mmoasia.forumms.net/t8-release-mu-online-web-browser-version
+https://forum.ragezone.com/f508/development-mu-online-web-browser-745179/
