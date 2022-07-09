@@ -1,6 +1,7 @@
 I recently found these files, but they are in portuguese. I can not find the enlish ones that were available years ago, all the download links are dead. 
 
 Website Demo: http://www.abyssmuonline.com/browser/
+
 MuOnline Browser Edition Discord: https://discord.gg/qjwJA9HUmx 
 
 In my spare time I will be working on these files to translate and add to them. If you would like to contribute and make the project go faster please feel free to do so.
@@ -33,5 +34,7 @@ Database - MySQL
 4) Upload all files (Except the SQL FILES folder (It's just not needed on the webserver.) to your webserver.
 
 Here is some resources I found with information on the source code.
+
 https://mmoasia.forumms.net/t8-release-mu-online-web-browser-version
+
 https://forum.ragezone.com/f508/development-mu-online-web-browser-745179/
