@@ -1,5 +1,7 @@
 I recently found these files, but they are in portuguese. I can not find the enlish ones that were available years ago, all the download links are dead. 
 
+Website Demo: http://www.abyssmuonline.com/browser/
+
 In my spare time I will be working on these files to translate and add to them. If you would like to contribute and make the project go faster please feel free to do so.
 
 Current goals (In no particular order):
@@ -19,9 +21,9 @@ Current goals (In no particular order):
 	- Shop Editor
 10) Remove all branding - Change all logos to say MuOnline Browser Edition or something generic.
 
+To Do List: https://github.com/pukethirst/MuOnline-Browser-Edition/projects/1
+
 I want everything set up as the game would be originally in version .99 and disable everything else until needed. After the basic game is in place, I want to add content season by season with a way to enable / disable seasons content so admins can "release" updates to play through the seasons in order or stop at their favorite season easily.
-
-
 
 Database - MySQL
 1) Create a MySQL database for the game
